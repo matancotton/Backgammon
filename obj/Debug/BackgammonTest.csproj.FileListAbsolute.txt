@@ -1,0 +1,10 @@
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\bin\Debug\BackgammonTest.exe.config
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\bin\Debug\BackgammonTest.exe
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\bin\Debug\BackgammonTest.pdb
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.Properties.Resources.resources
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.csproj.GenerateResource.cache
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.csproj.CoreCompileInputs.cache
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.exe
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.pdb
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.Backgammon.resources
+C:\Users\matan\source\repos\BackgammonTest\BackgammonTest\obj\Debug\BackgammonTest.csprojAssemblyReference.cache
